@@ -1,0 +1,7 @@
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\bin\Debug\ProjetoDKP.BLL.exe.config
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\bin\Debug\ProjetoDKP.BLL.exe
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\bin\Debug\ProjetoDKP.BLL.pdb
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\obj\Debug\ProjetoDKP.BLL.csproj.AssemblyReference.cache
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\obj\Debug\ProjetoDKP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\obj\Debug\ProjetoDKP.BLL.exe
+C:\Users\Edinaldo\source\repos\ProjetoDKP\ProjetoDKP.BLL\obj\Debug\ProjetoDKP.BLL.pdb
